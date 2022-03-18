@@ -4,7 +4,7 @@ const Default = require('./layouts/Default');
 function New() {
     return (
         <Default>
-            
+            <h2>Add a New Bread</h2>
         </Default>
     );
 };
