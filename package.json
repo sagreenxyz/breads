@@ -1,0 +1,20 @@
+{
+  "name": "breads",
+  "version": "1.0.0",
+  "description": "[Part 1](https://digitalskills.instructure.com/courses/3775/pages/code-along-6-dot-4-1?module_item_id=464305)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sagreenxyz/breads.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sagreenxyz/breads/issues"
+  },
+  "homepage": "https://github.com/sagreenxyz/breads#readme"
+}
