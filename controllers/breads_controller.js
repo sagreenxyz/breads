@@ -29,7 +29,7 @@ breads.post('/', (req, res) => {
         req.body.hasGluten = 'false';
     };
     Bread.push(req.body);
-    res.send(Bread);
+    res.redirect('/breads');
 });
 
 module.exports = breads;
