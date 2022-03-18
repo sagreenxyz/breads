@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/sagreenxyz/breads/issues"
   },
-  "homepage": "https://github.com/sagreenxyz/breads#readme"
+  "homepage": "https://github.com/sagreenxyz/breads#readme",
+  "dependencies": {
+    "express": "^4.17.3"
+  }
 }
