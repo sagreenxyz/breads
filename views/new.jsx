@@ -28,6 +28,13 @@ function New() {
                 <br />
                 <input type="submit" />
             </form>
+            <div className="backButton">
+                <a href="/breads">
+                    <button>
+                        Go Back to Index
+                    </button>
+                </a>
+            </div>
         </Default>
     );
 };
