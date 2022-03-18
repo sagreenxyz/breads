@@ -8,7 +8,7 @@ const app = express();
 
 // ROUTES
 app.get('/', (req, res) => {
-    res.send('Welcome to an Awesome App about Breads!');
+    res.send(`Welcome to an Awesome App about Breads!  Breads index page is at <a href="http://localhost:${PORT}/breads">Link</a>`);
 });
 
 // CONTROLLERS
